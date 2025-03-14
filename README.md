@@ -30,11 +30,6 @@ pip install torch torchvision numpy matplotlib opencv-python pandas
 2. **Train the model**: Run the training script to train the CNN.
 3. **Evaluate performance**: Use the test dataset to analyze accuracy and loss.
 
-To run the notebook:
-```bash
-jupyter notebook xraycnn.ipynb
-```
-
 ## Results
 - The model is evaluated using accuracy, precision, recall, and F1-score.
 - Visualizations of training loss and accuracy trends are included.
@@ -45,6 +40,4 @@ jupyter notebook xraycnn.ipynb
 - Exploring different CNN architectures such as ResNet.
 - Expanding the dataset for more diverse cases.
 
-## Author
-**Mustafa Yildirim**
 
